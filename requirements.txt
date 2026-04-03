@@ -1,0 +1,10 @@
+# Runtime library under test – installed from the local checkout
+-e notebooklm-py[browser]
+
+# Test framework
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+pytest-timeout>=2.3.0
+
+# Optional: dot-env support for overriding env vars locally
+python-dotenv>=1.0.0

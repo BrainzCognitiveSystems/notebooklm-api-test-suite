@@ -1,0 +1,6 @@
+notebooklm-storage/storage_state.json
+tests/__pycache__
+tests/storage_state.json
+.pytest_cache
+__pycache__
+DevPlan
